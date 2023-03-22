@@ -48,6 +48,7 @@ Example:
 python split_mp3.py input.mp3 output 25
 
 This command will split the input.mp3 file into smaller files with a maximum size of 25 MB, and the output files will have the prefix output.
+```
 
 ## License
 This project is released under the MIT License. See the LICENSE file for more information.
